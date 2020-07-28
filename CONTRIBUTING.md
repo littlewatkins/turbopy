@@ -28,9 +28,11 @@ Documentation
 -------------
 
 Any modules or apps that are created should include documentation, both docstrings
-and comments throughout the code. TurboPy uses the `numpydoc` style for docstrings,
+and comments throughout the code. TurboPy uses the 
+[`numpydoc` style](https://numpydoc.readthedocs.io) for docstrings,
 and we encourage the same style for those contributing to the project. The
-documentation is then automatically generated using ReadTheDocs.
+documentation is then automatically generated and hosted 
+[at ReadTheDocs](https://turbopy.readthedocs.io)..
 
 Testing
 -------
